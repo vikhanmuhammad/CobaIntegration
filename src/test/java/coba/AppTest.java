@@ -1,12 +1,10 @@
 package src.test.java.coba;
 
-import static org.junit.Assert.assertTrue;
+import org.junit.Assert.assertTrue;
 import src.main.java.coba.TanggalHelper;
 import org.junit.Test;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
  * Unit test for simple App.
