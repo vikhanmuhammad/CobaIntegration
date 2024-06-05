@@ -1,6 +1,6 @@
 package src.test.java.coba;
 
-import org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertEquals
 import src.main.java.coba.TanggalHelper;
 import org.junit.Test;
 import java.time.LocalDateTime;
